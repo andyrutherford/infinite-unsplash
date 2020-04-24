@@ -33,7 +33,7 @@ Infinite Unsplash uses a number of open source projects and resources to work pr
 
 ## Demo
 
-Here is a working live demo : https://andyrutherford.github.io/infinite-unsplash
+Here is a working live demo: https://infinite-unsplash.herokuapp.com/
 
 ## License
 
